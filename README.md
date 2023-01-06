@@ -18,4 +18,4 @@ This extract is from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8943493/ :
 </ul>
 <b>For more in-depth information of my analysis, checkout the jupyternotebook in the repository</b>
 <br>
-<b>More about me:</b><span><a href="https://sricharan.info">sricharan.info</a>
+<b>More about me:</b><span><a target="_blank" href="https://sricharan.info">sricharan.info</a>
